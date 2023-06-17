@@ -2,13 +2,14 @@
     width: 100vw;
     height: 100vh;
     display: flex;
+    justify-content: center;
 }
 
 .in{
-    width: 40%;
+    width: 35%;
     /* background-color: red; */
 }
 .out{
-    width: 60%;
-    /* background-color: green; */
+    width: 55%;
+    /* background-color: pink; */
 }
