@@ -1,7 +1,7 @@
 import React from "react";
 import "./home.css"
-import In from "./components/In"
-import Out from "./components/Out"
+import In from "./In"
+import Out from "./Out"
 
 function Home () {
     return(
